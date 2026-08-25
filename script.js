@@ -198,7 +198,7 @@ Generate the final ATS-friendly resume HTML now.
     // GEMINI API REQUEST
     // ==========================================
     const response = await fetch(
-  "http://localhost:3000/generate-resume",
+  "https://ai-resume-builder1-i853.onrender.com/generate-resume",
   {
     method: "POST",
 
