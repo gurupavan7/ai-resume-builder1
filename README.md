@@ -118,5 +118,6 @@ Additional backend protection includes:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/gurupavan7/ai-resume-builder1.git
+<<<<<<< HEAD
+=======
+>>>>>>> 
